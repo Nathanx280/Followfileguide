@@ -1,0 +1,66 @@
+Create a ultra-detailed, photorealistic screenshot of a full-screen modern web dashboard titled "Tribe Alpha Control Panel — MEGA CLUSTER 17-MAP DOMINANCE HUB" for ARK: Survival Evolved unofficial cluster owners running 17-map cross-server alpha empires. Dark primal-cyber theme exactly like ARK's in-game HUD mixed with Tek engram glow and corrupted element veins — deep obsidian black background #0A0A0A with glowing neon primal green #00FF9D accents, blood-red threat highlights #FF0033, holographic floating holographic panels with subtle scanline distortion, dinosaur skull icons carved from metal foundations, Tek armor plate textures with scratches and plasma seams, faint rain and steam particle effects like Aberration caves, lava crack glows from Scorched Earth, and faint distant silhouettes of Giganotosaurus, Titan, Wyvern, Shadowmane, Deinonychus, corrupted creatures, and hovering obelisks in the background. High-resolution 4K UI mockup, clean modern layout like a professional SaaS admin panel fused with ARK survival aesthetic, sharp typography using the exact ARK primal font mixed with clean futuristic sans-serif, every text element perfectly crisp, no blur whatsoever.
+
+Top navigation bar spans the entire width: Left side features a huge glowing "TRIBE ALPHA" logo with animated pulsing Rex head icon made of glowing element shards and the cluster name "MEGA CLUSTER 17-MAP — INX STYLE DOMINANCE" in metallic engraved lettering. Center tabs in glowing holographic buttons with hover plasma ripple effect: OVERVIEW • LEADERBOARD • REGISTRATIONS • EVENTS • RAIDS • ANALYTICS • GOVERNANCE • BREEDING VAULT • OFFLINE PROTECTION • WHITE FLAG STARTER • ALLIANCES • RIVAL ESPIONAGE • MOD REGISTRY • RCON CONSOLE • WIPE SCHEDULER • DETAILS & INFO • ACTIONS • MAP VISUALIZER. Right side shows Owner avatar wearing full Tek armor with glowing helmet visor, live server status "ALL 17 MAPS ONLINE — 2,847 Survivors — 45,291 Tames — 124,000 Element Harvested This Cycle", notification bell with pulsing red "7 New Raid Alerts • 3 White Flag Expiring • 2 Alliances Requesting Merge", logout button styled as a broken obelisk.
+
+Left sidebar is collapsible with vertical glowing green lines like Tek pillars: full cluster map list showing every official map — The Island with beach base icons, Scorched Earth with lava vein counters, Ragnarok with floating island pins, Extinction with corrupted zone heatmaps, Genesis Part 1 & 2 with bioluminescent markers, Aberration with crystal cave glows, Valguero, Crystal Isles, Fjordur, Lost Island, and every DLC map. Each map entry displays live player count, alpha control percentage bar filling with element glow, current dominant dino type (e.g., "Shadowmane 87% control"), and quick-jump buttons. Below the map list are pinned quick links: Tribe Roster Live Sync, Base Locator GPS, Rival Intel Database, Breeding Mutation Export, Cryopod Vault Transfer Log, Discord Bot Status (green synced).
+
+Main dashboard area is divided into a responsive grid of floating holographic cards with subtle depth shadows, glass-morphism overlays, and particle connections between cards like element veins. Every card has a metallic frame that pulses with primal green energy on hover, tooltips that pop up with Helena Walker journal flavor text from the ARK lore ("The strong devour the weak — maintain dominance or become fossilized"), and live updating fake data pulled from real alpha-tribe stats.
+
+1. OVERVIEW WIDGETS top row — five glowing holographic cards side by side with real-time counters and animated fill bars:
+   - Alpha Dominance Meter: massive circular gauge showing "GOD-TIER #1 — 98.7% CLUSTER CONTROL" with inner ring spinning like a Tek forcefield, filled with glowing Rex skull icons, power meter needle made of corrupted element.
+   - Live Cluster Stats: four sub-counters — "Survivors Online: 2,847 (peak 3,412 yesterday)" with rising green bar, "Total Tames Across 17 Maps: 45,291" with animated dino silhouettes walking, "Boss Kills This Wipe Cycle: 17 (including 4 Dragon, 3 Broodmother, 2 Overseer)" with trophy icons, "Element Harvested: 124,000" with vein crack animation.
+   - Threat Radar: mini circular radar map of the entire cluster with red pulsing dots for rival tribes, green for allied bases, yellow for neutral, animated lightning bolts for active raid zones, tooltip "Rival Alpha Tribe 'BloodReign' detected near Desert Cave — 87% chance of night raid".
+   - Offline Raid Protection Status: big toggle switch currently "ENABLED — 24h window active on all maps" with countdown timer and warning skull icon.
+   - White Flag Protection Overview: "New tribes protected for 14 days — 23 starter packs distributed this cycle" with gift box icons.
+
+2. LEADERBOARD — massive center table taking 40% of screen, fully sortable, filterable, paginated for 100+ tribes, with gold glow on row #1:
+   Columns exactly: Rank (with glowing crown for #1), Tribe Name (with custom dino emblem — Rex for alphas, Giga for raiders), Total Score (ARK points system with 1,245,890 for Tribe Alpha), PvP Kills, Tames Owned, Active Members, Map Control %, Status (green "Dominating" or red "Under Siege"). Every row has hover expansion showing mini base preview map, last raid log snippet, and "View Full Tribe Log" button that looks like an in-game notebook. Top row highlighted in gold with animated element sparks and "TRIBE ALPHA — UNDEFEATED THIS WIPE". Search bar at top with auto-complete for known rival names like "BloodReign" or "ShadowLegion". Export to CSV button styled as metal tablet.
+
+3. TRIBE REGISTRATIONS panel — clean approval queue table with pending, approved, denied tabs:
+   Columns: Requested Tribe Name, Leader Survivor Name, Requested Maps (multi-select like "Ragnarok + Genesis 2"), Requested Size (6-man or unlimited), Status buttons (big glowing green "Approve & Auto-Grant Starter Pack" red "Deny — Send Rejection Message", blue "Review Full Application"). Form at bottom: "Register New Tribe" with fields for tribe logo upload (dino icon picker with every creature in ARK), description box with ARK lore placeholder, and "Submit to Alpha Council" button.
+
+4. EVENTS CALENDAR — interactive grid with countdown timers and color-coded event types:
+   Upcoming events displayed as holographic cards: "Wednesday Boss Rush (All 17 Maps — Dragon, Broodmother, Overseer)" with timer "47h 12m", "Friday Tribe vs Tribe Tournament — 6-man bracket", "Weekend Raid Window Open — 72h PvP free-for-all", "White Flag Expiry Alert — 3 tribes losing protection in 18h". "Create New Event" floating action button opens modal with fields for event name, map selection, duration, rewards (element shards, admin-spawned Rex army), and "Broadcast to All Survivors via In-Game Chat + Discord".
+
+5. RAIDS section — split view with live map overlay and scrolling log feed:
+   Left half: interactive cluster map with red attack pins pulsing like blood, "LIVE RAID IN PROGRESS — Desert Cave FOB on Extinction" with animated explosion particles and loot icons flying. Right half: real-time Raid Log styled exactly like in-game tribe log — timestamps "2026-03-18 20:41 — Tribe Alpha initiated raid on BloodReign base", attacker/defender names, dino losses (12 Rex lost, 47 Giga tames gained), loot summary ("87,000 element + 12 cryopods + Tek blueprints"), "View Replay Video" buttons, and "Mark as Victorious — Claim Territory" admin action. Filter by map, date, or rival.
+
+6. ANALYTICS graphs — three large interactive charts with ARK color scheme:
+   Line chart "PvP Activity & Kill/Death Ratio Last 30 Days" with green rising line for Tribe Alpha dominance. Bar chart "Top Dinos Tamed This Cycle (Rex 12,487 • Shadowmane 8,912 • Wyvern 4,567 • Corrupted Giga 2,341)". Pie chart "Cluster Control by Map — Extinction 98%, Ragnarok 94%, Aberration 100%". Hover tooltips show exact numbers and "Export to PNG for Discord" button.
+
+7. GOVERNANCE EDITOR — new deep panel pulled from real ARK tribe management:
+   Full editable tribe hierarchy with drag-and-drop ranks: Owner (full RCON access), Admin (structure + dino), Officer (raid lead), Member (inventory), Recruit (view only), Foot Soldier (limited). Permission matrix table with toggles for "Can tame wild dinos", "Can access personal pin-coded storage", "Can initiate cluster-wide raids", "Can view breeding vault". Tribe-wide settings sliders: max tames per player, offline protection hours, white flag duration, starter pack contents (level 100 Rex + cryopods + element). Live member list with online status, last login, contribution score (kills + tames).
+
+8. BREEDING VAULT — mutation tracker and lineage database:
+   Searchable table of all bred dinos across cluster with columns: Dino Type, Mutation Count (e.g., "12 melee + 7 health on Rex line"), Lineage Tree preview (visual family tree with glowing lines), Fertility Status, Location (map + base GPS). Stats overview: "Total Mutations This Cycle: 4,872 • Best Rex Stat: 1,245 melee". Buttons: "Export All Lineages to CSV", "Mass Cryopod Transfer to Genesis 2", "Breed Optimizer — Suggest Best Pairs".
+
+9. OFFLINE RAID PROTECTION SCHEDULER — real cluster feature panel:
+   Toggle switches per map with sliders for protection hours (0-72h), countdown timers, exceptions list for rival tribes. Visual calendar showing when protection windows overlap with raid events. Warning banner "If disabled, alpha bases become vulnerable — confirm with RCON".
+
+10. WHITE FLAG STARTER PACK MANAGER — new admin tool:
+    Queue of new tribes, one-click "Grant Starter Pack: Level 150 Rex saddle + 10 cryopods + 5,000 element + 24h protection". Customizable pack editor with every ARK item selectable. History log of all distributed packs with recipient tribes.
+
+11. ALLIANCES MANAGER — diplomacy panel:
+    List of allied tribes with merge requests, shared resource pool counters, joint raid planning calendar, "Form New Alliance" button that auto-syncs Discord channels.
+
+12. RIVAL ESPIONAGE INTEL — deep alpha strategy panel:
+    Heatmap of rival bases, spy-log feed ("BloodReign moved 47 Gigas to Scorched cave base"), threat scores, "Mark for Next Raid" buttons, estimated loot value calculator.
+
+13. MOD & CUSTOM DINO REGISTRY — for unofficial clusters:
+    List of active mods (Structures Plus, Ark Additions, etc.), custom creature stats, spawn commands ready to copy into RCON console.
+
+14. RCON CONSOLE — live command line panel:
+    Text input field with auto-complete ARK admin commands ("admincheat summon Rex_Character_BP_C", "forceplayertojoin tribe Alpha"), history log of executed commands, "Save Macro" buttons for common alpha actions like mass dino spawns.
+
+15. WIPE SCHEDULER — wipe-day planning tool:
+    Calendar with proposed wipe dates, pre-wipe announcements editor, "Initiate Cluster Wipe" red emergency button with multiple confirmation steps and "Backup All Data First" checkbox.
+
+16. DETAILS & INFO hub — expanded with base visualizer:
+    Alpha Tribe Roster with ranks and permissions, interactive full-cluster base map with clickable foundations showing structure count and dino population per base, resource stockpile overview with bar graphs for element, metal, cementing paste.
+
+17. QUICK ACTIONS panel — bottom right floating orb with 20+ big glowing buttons arranged in a primal circle:
+    "Broadcast Global Message to All Survivors", "Initiate Cluster Wipe with 48h Warning", "Mass Transfer Dino Pack Across Maps", "Lock Rival Tribe Bases", "Spawn Admin Rex Army (100 level 150)", "Open Raid Window Now", "Sync Discord Bot", "Distribute Starter Packs", "Export Full Cluster Data", "Enable Club Ark Mini-Games Integration", "Force Offline Raid Protection", "Purge Inactive Tribes", "Grant Element to Allies", "View Full In-Game Tribe Log Export".
+
+Floating ARK-style tooltips on every interactive element with exact Helena Walker journal quotes, subtle particle effects (green element sparks on alpha panels, red blood particles on raid alerts), cinematic volumetric lighting with god rays coming from top-left like sunrise over The Island, rain streaks on the glass panels like Aberration weather, lava glow reflections on bottom cards, every button has hover state with plasma ripple and sound-wave visualization lines even though static image. Ultra-sharp, cinematic lighting, no text blur, perfect for web UI reference or actual coding mockup. Style: realistic screenshot of a live web app running in browser, 16:9 landscape orientation, professional game admin dashboard mixed with in-game ARK HUD, 100% faithful to every real unofficial cluster mechanic used by alpha tribes in 2026.
+
+Additional style instructions for maximum detail: render every icon as 3D rendered ARK assets with specular highlights and subsurface scattering on dino skins, use exact HEX colors (#00FF9D primal green, #FF0033 blood red, #00FFFF Tek cyan), background parallax layers with faint moving rain and steam, every chart line has glow bloom effect, table rows alternate between dark metal and slight green tint, all counters animate with counting-up numbers frozen at realistic alpha-tribe values, add faint watermark "Powered by Tribe Alpha Engine v17.2 — Built for Dominance" at bottom in engraved metal font. Make the entire interface feel alive and ready to control an actual 17-map ARK empire.
